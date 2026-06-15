@@ -2213,9 +2213,30 @@
       "enabled": true,
       "bundle_url": "https://github.com/nukiebaba/sts2mm-profiles/releases/download/bundles/Interlude_v0.1_b515fc84.zip",
       "bundle_sha256": "b515fc847a7acb2117f5b42b67fdb59705a5ec94b8485cfc49d98641e62f875b"
+    },
+    {
+      "name": "RitsuLib (STS2 0.103.2 compat)",
+      "version": "0.4.11",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "1704bf42f598a4df3c43b202e0f3d358badfc091d0e21ce116e61ce409bcd49d",
+      "files": [
+        "STS2-RitsuLib\\compat-target.txt",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/nukiebaba/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.4.11_7ce34cce.zip",
+      "bundle_sha256": "7ce34cceb6b35784eb80c8b943d056c5e14443b4fcd80c8227a9fee7db7f71e0"
     }
   ],
   "created_at": "2026-06-08T00:41:26.841950100Z",
-  "updated_at": "2026-06-14T23:34:41.312078Z",
+  "updated_at": "2026-06-15T00:22:52.270702400Z",
   "public": false
 }
