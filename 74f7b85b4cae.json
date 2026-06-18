@@ -2237,9 +2237,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/nukiebaba/sts2mm-profiles/releases/download/bundles/RitsuLib_.STS2_0_103_2_compat._v0.4.11_7ce34cce.zip",
       "bundle_sha256": "7ce34cceb6b35784eb80c8b943d056c5e14443b4fcd80c8227a9fee7db7f71e0"
+    },
+    {
+      "mod_version_id": "3c6ae7c1-5a28-4f49-b31d-8d712c956e21",
+      "name": "Portalcraft",
+      "version": "v0.2.8",
+      "source": "github:Siegric/sts2_char_portalcraft",
+      "hash": "17ae4ff3ee5f973d50396997bdc773378bfb97f64782858e1a176fcd4b783c52",
+      "files": [
+        "sts2_char_portalcraft\\sts2_char_portalcraft.dll",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.json",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.pck"
+      ],
+      "folder_name": "sts2_char_portalcraft",
+      "mod_id": "sts2_char_portalcraft",
+      "enabled": true,
+      "bundle_url": "https://github.com/nukiebaba/sts2mm-profiles/releases/download/bundles/Portalcraft_v0.2.8_77a580e3.zip",
+      "bundle_sha256": "77a580e33030aa716fb264bad77b69e07940f53aebf32e7ab6671f3d9b440cfd"
     }
   ],
   "created_at": "2026-06-08T00:41:26.841950100Z",
-  "updated_at": "2026-06-18T21:21:03.062580800Z",
+  "updated_at": "2026-06-18T21:21:39.736804Z",
   "public": false
 }
