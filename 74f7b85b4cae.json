@@ -5,9 +5,10 @@
   "created_by": "nukiebaba",
   "mods": [
     {
+      "mod_version_id": "27dbe7d2-b724-4f2d-80e5-a5cbcf169241",
       "name": "Act 4: Final Ascent",
       "version": "0.1.2e",
-      "source": null,
+      "source": "github:kphxgames/Act4FinalAscent",
       "hash": "8b47f856cf3ccfc31a2675c229db81d68481e05b4c3b2242cdb81054896e853d",
       "files": [
         "Act4FinalAscent\\Act4FinalAscent.dll",
@@ -21,6 +22,7 @@
       "bundle_sha256": "3a3beefe1bd42db80a9e32a4285f84dfda0092bd828b543271bdcf51bb2c6db4"
     },
     {
+      "mod_version_id": "6f3248bb-337a-45a5-a08a-8832603b45a7",
       "name": "BaseLib",
       "version": "v3.2.0",
       "source": null,
@@ -37,6 +39,7 @@
       "bundle_sha256": "5f9b7cfcc546689408f9ff93db8f4889973713c9435cff3b40036fd71c2099fa"
     },
     {
+      "mod_version_id": "3f6409f2-6a94-4438-b4ce-339d616e85bf",
       "name": "BetterSpire2",
       "version": "v1.82.4",
       "source": null,
@@ -67,6 +70,7 @@
       "bundle_sha256": "4d756c3b6d12f0cd2ba21cf67d057d510330a17b08bd066634a8d1fddfb90546"
     },
     {
+      "mod_version_id": "c75075b0-4be1-443b-964e-306c34141e66",
       "name": "Campfire Trading",
       "version": "v1.0",
       "source": null,
@@ -83,6 +87,7 @@
       "bundle_sha256": "958aaf402121301849c5ba0878bd0f6c8146a864c0afc571d254d745861aabc0"
     },
     {
+      "mod_version_id": "55c7668e-4870-4b94-8ffe-a1afd5812c78",
       "name": "Merchant2CuteII",
       "version": "v1.5.0",
       "source": null,
@@ -99,6 +104,7 @@
       "bundle_sha256": "a9a39d7591d36a7373ff9b9f6257ae4a1e9cbe71901ef17cb1936680454eeeef"
     },
     {
+      "mod_version_id": "c3878b4d-75ec-449c-8b3c-9bdbb27aa371",
       "name": "MoreCardRewards",
       "version": "v1.5.0",
       "source": null,
@@ -115,6 +121,7 @@
       "bundle_sha256": "2252d1e6839bfbbe6f1ab50551988d259f3144ce7e937827c4acc1afeba07171"
     },
     {
+      "mod_version_id": "102c140d-e3e8-4a55-96f9-debbc4687787",
       "name": "Relic Reward Choice",
       "version": "1.7.0",
       "source": null,
@@ -131,6 +138,7 @@
       "bundle_sha256": "3d92285d349984d36b71b725b51c7ca26452e7886fc21c11216cc6cd7115a710"
     },
     {
+      "mod_version_id": "1fed66c7-1ebf-46c5-bb61-986bde636f4f",
       "name": "RemoveMultiplayerPlayerLimit",
       "version": "0.1.7",
       "source": null,
@@ -148,6 +156,7 @@
       "bundle_sha256": "cac7a85294c311fea2c6f7e235c86c811c6d91046b04c2a99bc89564827ba8e3"
     },
     {
+      "mod_version_id": "0f002c91-4efb-443a-9549-19efdea49b23",
       "name": "Unified Save Path",
       "version": "1.0.0",
       "source": null,
@@ -164,6 +173,7 @@
       "bundle_sha256": "3966fd23813432cd907271accde25b335e4f2821308078bf85876ce2595365a9"
     },
     {
+      "mod_version_id": "4f77459e-cbac-459e-b3b9-f6b5cd2b70b6",
       "name": "Watcher",
       "version": "v1.4.3",
       "source": null,
@@ -180,6 +190,7 @@
       "bundle_sha256": "7e8e91a9695471af600765b533182b244ad0374adaeedb9422b5308d12bc53c2"
     },
     {
+      "mod_version_id": "c98acb26-a603-4ecb-897e-869c417c1c7e",
       "name": "皮皮极速: SpeedX",
       "version": "0.11.7",
       "source": null,
@@ -196,6 +207,7 @@
       "bundle_sha256": "d136d252eee4417dc1855ff5beb79e7547b5c775f36b66d8f9d1d7f60b20f23a"
     },
     {
+      "mod_version_id": "1dedbc39-ee2c-4633-a038-a59dee9bd13b",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
       "source": null,
@@ -212,6 +224,7 @@
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     },
     {
+      "mod_version_id": "761914ef-3213-4400-a8ce-9638f7e5d9ec",
       "name": "皮皮快连: QuickLink",
       "version": "0.9.9",
       "source": null,
@@ -228,6 +241,7 @@
       "bundle_sha256": "569a7396bd646ad926737d92ecff44b12391c6f9c7593903672adc1f28019b3a"
     },
     {
+      "mod_version_id": "c276acf3-1d03-4e88-b847-0256430837eb",
       "name": "YukiMod",
       "version": "v0.0.3",
       "source": "nexus:slaythespire2/mods/1147",
@@ -244,6 +258,7 @@
       "bundle_sha256": "b7b452c73c5b4d526b1004a52bc974816fa79621cd73449098cf02fe495c9506"
     },
     {
+      "mod_version_id": "210ba63c-9e09-4633-92fa-a9d68ce65488",
       "name": "Ryoshu",
       "version": "0.3.5",
       "source": null,
@@ -260,22 +275,7 @@
       "bundle_sha256": "99136a08ac67834f4c77b88074e2b3b2387632d2fc177a5d29bd66c9c222242e"
     },
     {
-      "name": "Portalcraft",
-      "version": "v0.2.8",
-      "source": "github:Siegric/sts2_char_portalcraft",
-      "hash": "66168269d2535a39e9854e6571ed2eb29a1e83c37f7fa861744cdd4915a2fc4a",
-      "files": [
-        "sts2_char_portalcraft\\sts2_char_portalcraft.dll",
-        "sts2_char_portalcraft\\sts2_char_portalcraft.json",
-        "sts2_char_portalcraft\\sts2_char_portalcraft.pck"
-      ],
-      "folder_name": "sts2_char_portalcraft",
-      "mod_id": "sts2_char_portalcraft",
-      "enabled": true,
-      "bundle_url": "https://github.com/nukiebaba/sts2mm-profiles/releases/download/bundles/Portalcraft_v0.2.8_77a580e3.zip",
-      "bundle_sha256": "77a580e33030aa716fb264bad77b69e07940f53aebf32e7ab6671f3d9b440cfd"
-    },
-    {
+      "mod_version_id": "66984c22-cc35-41e2-b8d1-19d7d24cdede",
       "name": "TheQueen",
       "version": "1.1.1",
       "source": null,
@@ -2183,6 +2183,7 @@
       "bundle_sha256": "158ecc636558cf683664774a464fc42b0dab56019bc93464f4d965dd775290ec"
     },
     {
+      "mod_version_id": "86dab90d-b4d9-4989-9509-ad0d6e723beb",
       "name": "The Hermit",
       "version": "v1.5.0",
       "source": null,
@@ -2199,6 +2200,7 @@
       "bundle_sha256": "421959bbc93017b708ca7401da81cf5db8e2cf52c54193730fe580082c08cb5e"
     },
     {
+      "mod_version_id": "5af783a1-8ecd-4e59-9df5-fb7784acd49a",
       "name": "Interlude",
       "version": "0.1",
       "source": null,
@@ -2215,6 +2217,7 @@
       "bundle_sha256": "b515fc847a7acb2117f5b42b67fdb59705a5ec94b8485cfc49d98641e62f875b"
     },
     {
+      "mod_version_id": "f68d11e4-0f51-4f10-abb1-14de28e3614f",
       "name": "RitsuLib (STS2 0.103.2 compat)",
       "version": "0.4.11",
       "source": "github:BAKAOLC/STS2-RitsuLib",
@@ -2237,6 +2240,6 @@
     }
   ],
   "created_at": "2026-06-08T00:41:26.841950100Z",
-  "updated_at": "2026-06-15T00:22:52.270702400Z",
+  "updated_at": "2026-06-18T21:20:05.029885100Z",
   "public": false
 }
